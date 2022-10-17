@@ -115,6 +115,8 @@ public class Main {
             	break;	
             
             case 7:
+            	System.out.println();
+            	System.out.println("Program terminated. Restart the program if you want to try again.");
             	System.exit(0);
             	break;	
             
